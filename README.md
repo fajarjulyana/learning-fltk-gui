@@ -17,7 +17,7 @@ chapter-4/   -> Input dan output (interaksi user)
 chapter-5/   -> Layout dan grouping
 chapter-6/   -> Mini project GUI sederhana
 
-````
+```
 
 Setiap chapter berisi file `main.cpp` yang bisa langsung di-compile dan dijalankan.
 
@@ -64,7 +64,6 @@ pacman -S mingw-w64-x86_64-fltk
 
 ### macOS
 
-Menggunakan Homebrew:
 
 ```bash
 brew install fltk
