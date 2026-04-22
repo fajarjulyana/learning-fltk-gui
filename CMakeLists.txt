@@ -10,3 +10,4 @@ function(add_chapter name path)
 endfunction()
 
 add_chapter(chapter1 chapter-1/main.cpp)
+add_chapter(chapter2 chapter-2/main.cpp)
