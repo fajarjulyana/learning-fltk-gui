@@ -3,6 +3,7 @@
 #include <FL/Fl_Input.H>
 #include <FL/Fl_Button.H>
 #include <FL/Fl_Box.H>
+#include <string>
 
 Fl_Input *input;
 Fl_Box *output;
